@@ -9,7 +9,7 @@
  6) `git branch -M main` This command will set the branch to main.
  7) `git remote add origin https://yourgithubrepo.git` This will add your github repo link to remote and thus link it to your local repo.
  8) `git push -u origin main` This is final command to push all the files online inside the repo.
- 9) Once this is done, you just need to do 8th command to update the online repository with any changes in local repo.
+ 9) Once this is done, you just need to do 4th, 5th and 8th command in order everytime to update the online repository with any changes in local repo.
 -------------------------------------------------
 ## 🤔 Q. How to collaborate on Github?
  1) Fork the repo that you wish to collaborate on.
